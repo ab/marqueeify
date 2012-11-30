@@ -4,7 +4,7 @@
 function marqueeify() {
     var marquee = document.createElement('marquee');
     document.getElementsByTagName('html')[0].appendChild(marquee);
-    marquee.appendChild(html.getElementsByTagName('body')[0]);
+    marquee.appendChild(document.getElementsByTagName('body')[0]);
 }
 
-// <a href="javascript:(function(){var marquee=document.createElement('marquee');document.getElementsByTagName('html')[0].appendChild(marquee);marquee.appendChild(html.getElementsByTagName('body')[0]);}())">Marqueeify!</a>
+// <a href="javascript:(function(){var marquee=document.createElement('marquee');document.getElementsByTagName('html')[0].appendChild(marquee);marquee.appendChild(document.getElementsByTagName('body')[0]);}())">Marqueeify!</a>
