@@ -1,7 +1,7 @@
 ![Marqueeify!](https://raw.github.com/ab/marqueeify/master/logo.gif)
 ====================================================================
 
-Sometimes you just need a little more marquee in your DOM. :trollface:
+Sometimes you just need a little more marquee in your DOM. :innocent:
 
 Github and most sites won't allow javascript in links (for good reason).
 
