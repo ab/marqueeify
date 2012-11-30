@@ -1,5 +1,5 @@
-Marqueeify!
-===========
+![Marqueeify!](https://raw.github.com/ab/marqueeify/master/logo.gif)
+====================================================================
 
 Sometimes you just need a little more marquee in your DOM. :trollface:
 
