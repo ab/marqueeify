@@ -1,7 +1,7 @@
 Marqueeify!
 ===========
 
-Sometimes you just need a little more marquee in your DOM.
+Sometimes you just need a little more marquee in your DOM. :trollface:
 
 Github and most sites won't allow javascript in links (for good reason).
 
